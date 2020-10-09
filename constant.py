@@ -1,0 +1,3 @@
+NEIGHBOR = 0
+IDX = 1 
+DISTANCE = 2
